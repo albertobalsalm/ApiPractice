@@ -1,2 +1,0 @@
-# ApiPractice
-Created with CodeSandbox
